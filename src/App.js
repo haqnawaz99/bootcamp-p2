@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React page by <br/>
+          React page assignment by <br/>
           Haq Nawaz
         </a>
       </header>
